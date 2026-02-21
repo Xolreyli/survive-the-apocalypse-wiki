@@ -59,7 +59,7 @@ body{
 /* Layout */
 .page{
   display:grid;
-  grid-template-columns: var(--sidebarW) 1fr var(--tocW);
+  grid-template-columns: var(--sidebarW) 1fr;
   gap:16px;
   padding:16px;
   align-items:start;
@@ -136,25 +136,6 @@ body{
   vertical-align:top;
 }
 .article th{background:#f8f9fa;text-align:left}
-
-/* TOC */
-.toc{position:sticky;top:64px}
-.toc-box{
-  background:var(--paper);
-  border:1px solid var(--border);
-  border-radius:var(--radius);
-  padding:12px;
-}
-.toc-title{
-  font-size:13px;
-  color:var(--muted);
-  text-transform:uppercase;
-  letter-spacing:.04em;
-  margin:4px 0 8px;
-}
-.toc-box ul{margin:0;padding-left:16px;font-size:14px}
-.toc-box a{color:var(--link);text-decoration:none}
-.toc-empty{color:var(--muted);font-size:14px}
 
 /* Footer */
 .footer{padding:18px 16px;color:var(--muted)}

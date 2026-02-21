@@ -23,7 +23,7 @@
       </div>
     </header>
 
-    <div class="page">
+    <div class="page no-toc">
       <aside class="sidebar">
         <div class="side-section">
           <div class="side-title">Navigation</div>
@@ -60,17 +60,6 @@
         </div>
       </main>
 
-      <aside class="toc">
-        <div class="toc-box">
-          <div class="toc-title">On this page</div>
-          {% assign toc = content | toc_only %}
-          {% if toc and toc != "" %}
-            {{ toc }}
-          {% else %}
-            <div class="toc-empty">No headings</div>
-          {% endif %}
-        </div>
-      </aside>
     </div>
 
     <footer class="footer">
