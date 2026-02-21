@@ -1,6 +1,6 @@
 title: Survive the Apocalypse Wiki
 description: Official wiki for Survive the Apocalypse
-theme: just-the-docs
+theme: jekyll-theme-cayman
 
 # If you host at https://USERNAME.github.io/REPO
 # set baseurl to "/REPO"
