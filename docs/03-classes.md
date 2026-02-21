@@ -1,8 +1,7 @@
 ---
 title: Classes
 layout: default
-nav_order: 12
-parent: Docs
+summary: Classes are gem-purchased perks that provide abilities, starter weapons, and unique advantages.
 ---
 
 # Classes

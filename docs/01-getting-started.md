@@ -1,8 +1,7 @@
 ---
 title: Getting Started
 layout: default
-nav_order: 10
-parent: Docs
+summary: Learn the basics of survival, starting gear, looting, base building, and early progression.
 ---
 
 # Getting Started

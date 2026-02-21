@@ -1,8 +1,7 @@
 ---
 title: Zombies
 layout: default
-nav_order: 17
-parent: Docs
+summary: Learn about all zombie types, their abilities, and how to survive increasingly dangerous hordes.
 ---
 
 # Zombies

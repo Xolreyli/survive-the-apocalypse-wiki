@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+
+    <link rel="stylesheet" href="{{ '/assets/css/wiki.css' | relative_url }}">
+  </head>
+
+  <body>
+    <header class="topbar">
+      <div class="topbar-inner">
+        <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+        <nav class="topnav">
+          <a href="{{ '/docs/01-getting-started/' | relative_url }}">Getting Started</a>
+          <a href="{{ '/docs/03-classes/' | relative_url }}">Classes</a>
+          <a href="{{ '/docs/05-weapons/' | relative_url }}">Weapons</a>
+          <a href="{{ '/docs/06-crafting/' | relative_url }}">Crafting</a>
+          <a href="{{ '/docs/10-locations/' | relative_url }}">Locations</a>
+        </nav>
+      </div>
+    </header>
+
+    <div class="page">
+      <aside class="sidebar">
+        <div class="side-section">
+          <div class="side-title">Navigation</div>
+          <a href="{{ '/' | relative_url }}">Main Page</a>
+          <a href="{{ '/docs/01-getting-started/' | relative_url }}">Getting Started</a>
+          <a href="{{ '/docs/02-progression/' | relative_url }}">Progression & Extraction</a>
+          <a href="{{ '/docs/03-classes/' | relative_url }}">Classes</a>
+          <a href="{{ '/docs/04-badges/' | relative_url }}">Badges</a>
+          <a href="{{ '/docs/05-weapons/' | relative_url }}">Weapons</a>
+          <a href="{{ '/docs/06-crafting/' | relative_url }}">Crafting</a>
+          <a href="{{ '/docs/07-backpacks/' | relative_url }}">Backpacks</a>
+          <a href="{{ '/docs/08-zombies/' | relative_url }}">Zombies</a>
+          <a href="{{ '/docs/09-events/' | relative_url }}">Events</a>
+          <a href="{{ '/docs/10-locations/' | relative_url }}">Locations</a>
+        </div>
+
+        <div class="side-section">
+          <div class="side-title">Links</div>
+          <a href="https://github.com/xolreyli/survive-the-apocalypse-wiki">GitHub Repo</a>
+        </div>
+      </aside>
+
+      <main class="content">
+        <div class="content-inner">
+          <h1 class="page-title">{{ page.title }}</h1>
+
+          {% if page.summary %}
+            <div class="lead">{{ page.summary }}</div>
+          {% endif %}
+
+          <div class="article">
+            {{ content }}
+          </div>
+        </div>
+      </main>
+
+      <aside class="toc">
+        <div class="toc-box">
+          <div class="toc-title">On this page</div>
+          {% assign toc = content | toc_only %}
+          {% if toc and toc != "" %}
+            {{ toc }}
+          {% else %}
+            <div class="toc-empty">No headings</div>
+          {% endif %}
+        </div>
+      </aside>
+    </div>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        <span>© {{ site.time | date: '%Y' }} {{ site.title }}</span>
+        <span class="sep">•</span>
+        <span>Hosted on GitHub Pages</span>
+      </div>
+    </footer>
+  </body>
+</html>

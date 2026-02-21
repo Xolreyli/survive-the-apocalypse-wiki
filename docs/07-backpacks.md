@@ -1,8 +1,7 @@
 ---
 title: Backpacks
 layout: default
-nav_order: 16
-parent: Docs
+summary: Backpacks increase inventory capacity and can be found throughout the map or in supply drops.
 ---
 
 # Backpacks

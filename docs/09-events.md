@@ -1,8 +1,7 @@
 ---
-title: Events
+title: Locations
 layout: default
-nav_order: 18
-parent: Docs
+summary: Important locations including the Hospital, Bandit Outpost, Nuclear Reactor, Powerplants, and more.
 ---
 
 # Events

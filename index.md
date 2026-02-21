@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: default
-nav_order: 1
+summary: Survive the Apocalypse is a zombie survival game where players build bases, fight zombies, loot powerful gear, and survive until extraction on Day 100 (or higher).
 ---
 
 # Survive the Apocalypse Wiki

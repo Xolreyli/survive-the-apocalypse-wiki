@@ -1,8 +1,7 @@
 ---
 title: Progression & Extraction
 layout: default
-nav_order: 11
-parent: Docs
+summary: How waves scale in difficulty, how to repair powerplants, and how to successfully extract from the city.
 ---
 
 # Progression & Extraction

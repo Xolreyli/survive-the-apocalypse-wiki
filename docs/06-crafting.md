@@ -1,8 +1,7 @@
 ---
 title: Crafting
 layout: default
-nav_order: 15
-parent: Docs
+summary: Craft structures, defenses, and tools using scrap, batteries, and zombie hearts to fortify your base.
 ---
 
 # Crafting

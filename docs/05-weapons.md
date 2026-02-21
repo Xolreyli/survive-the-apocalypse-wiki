@@ -1,8 +1,7 @@
 ---
 title: Weapons
 layout: default
-nav_order: 14
-parent: Docs
+summary: Weapons include melee tools and firearms used to defend against zombies, bosses, and hostile NPCs.
 ---
 
 # Weapons
@@ -30,12 +29,12 @@ Weapons are split into **Melee** and **Guns**.
 | Revolver | Pistol | — |
 | Uzi | Pistol | — |
 | Rifle | Long | — |
-| Assault Rifle | — | Ammo type not specified in source |
+| Assault Rifle | Medium | — |
 | AK-47 | Medium | — |
 | Shotgun | Shells | — |
 | Double Barrel | Shells | — |
 | AA-12 | Shells | — |
-| Sniper | — | Ammo type not specified in source |
+| Sniper | Long | — |
 | LMG | Medium | — |
 | Ray Gun* | Long | Reactor-only drop |
 | Flamethrower* | Fuel | Refined fuel refills 40%; regular fuel refills 10% |

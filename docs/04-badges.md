@@ -1,8 +1,7 @@
 ---
 title: Badges
 layout: default
-nav_order: 13
-parent: Docs
+summary: Badges are achievements earned through survival milestones, kills, crafting progression, and other accomplishments.
 ---
 
 # Badges

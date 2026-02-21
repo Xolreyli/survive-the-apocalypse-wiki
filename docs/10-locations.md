@@ -1,8 +1,7 @@
 ---
 title: Locations
 layout: default
-nav_order: 19
-parent: Docs
+summary: Important locations including the Hospital, Bandit Outpost, Nuclear Reactor, Powerplants, and more.
 ---
 
 # Locations
