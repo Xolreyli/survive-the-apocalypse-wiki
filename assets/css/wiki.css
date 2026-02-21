@@ -132,12 +132,23 @@ body{
   margin:12px 0;
   font-size:14px;
 }
-.article th,.article td{
-  border:1px solid #eaecf0;
+
+.article th,
+.article td{
+  border:1px solid #2a2f3a;
   padding:8px 10px;
   vertical-align:top;
 }
-.article th{background:#f8f9fa;text-align:left}
+
+.article th{
+  background-color:#232838;
+  color:#ffffff;
+  text-align:left;
+}
+
+.article td{
+  background-color:#171a21;
+}
 
 /* Footer */
 .footer{padding:18px 16px;color:var(--muted)}
