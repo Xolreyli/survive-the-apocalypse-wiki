@@ -11,6 +11,7 @@ Other backpacks can be found:
 - from Supply Crate drops
 
 ## Backpack tiers
+
 | Backpack | Inventory slots |
 |---|---:|
 | Default | 10 |

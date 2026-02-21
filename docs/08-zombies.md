@@ -6,6 +6,9 @@ summary: Learn about all zombie types, their abilities, and how to survive incre
 
 ## Types
 
+- **Starter zombie:** Slow and the least amount of health.
+- **Runner:** A little quicker than the starter zombie and low health. 
+- **Shield:** Riot police type of zombie. Has a riot shield and baton. Does a decent amount of damage.
 - **Muscle:** Orange and massive. High damage. Lunges and throws rocks.
 - **Screamer:** White with long claws. Extremely fast. Screams (red aura) then charges.
 - **Brute:** Massive, high damage, very high health. (Also appears as Blood Moon boss.)
