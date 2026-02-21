@@ -4,8 +4,6 @@ layout: default
 summary: Weapons include melee tools and firearms used to defend against zombies, bosses, and hostile NPCs.
 ---
 
-# Weapons
-
 Weapons are split into **Melee** and **Guns**.
 
 ## Melee weapons
@@ -21,6 +19,7 @@ Weapons are split into **Melee** and **Guns**.
 | Sledge Hammer |
 
 ## Guns
+
 > `*` means the weapon is obtained specifically from the **Nuclear Reactor**.
 
 | Gun | Ammo Type | Notes |
@@ -40,6 +39,7 @@ Weapons are split into **Melee** and **Guns**.
 | Flamethrower* | Fuel | Refined fuel refills 40%; regular fuel refills 10% |
 
 ### Suppressor compatibility
+
 Suppressors can’t be used on:
 - Ray Gun
 - Double Barrel

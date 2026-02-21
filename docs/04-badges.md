@@ -4,9 +4,6 @@ layout: default
 summary: Badges are achievements earned through survival milestones, kills, crafting progression, and other accomplishments.
 ---
 
-# Badges
-
-Badges are awarded for thresholds or accomplishments.
 Players can show badges **above their heads**.
 
 ## Survival milestones

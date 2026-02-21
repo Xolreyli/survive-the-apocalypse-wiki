@@ -4,10 +4,6 @@ layout: default
 summary: Classes are gem-purchased perks that provide abilities, starter weapons, and unique advantages.
 ---
 
-# Classes
-
-Classes are **perks bought with Gems** that grant powerups and abilities.
-
 - All classes still start with a **Bat**
 - Some classes provide **starter tools**, ammo, or unique abilities
 

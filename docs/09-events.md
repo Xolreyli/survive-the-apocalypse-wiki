@@ -1,10 +1,8 @@
 ---
-title: Locations
+title: Events
 layout: default
-summary: Important locations including the Hospital, Bandit Outpost, Nuclear Reactor, Powerplants, and more.
+summary: Special events including Blood Moons, Supply Crates, Raider attacks, and weather changes.
 ---
-
-# Events
 
 ## Supply Crates (every 5 days)
 Supply Crates fall from the sky **every 5 days**.

@@ -4,8 +4,6 @@ layout: default
 summary: Craft structures, defenses, and tools using scrap, batteries, and zombie hearts to fortify your base.
 ---
 
-# Crafting
-
 The **Crafting Table** has **4 levels**.
 
 > Scrap + battery costs scale based on the number of players in the lobby.
@@ -17,6 +15,7 @@ The **Crafting Table** has **4 levels**.
 - **Level 4 requires:** N/A *(Final level)*
 
 ## Items by crafting level
+
 | Level | Items available |
 |---:|---|
 | 1 | Map, Repair Hammer, Crafting Table 2 |

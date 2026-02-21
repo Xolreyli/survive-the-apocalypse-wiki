@@ -4,8 +4,6 @@ layout: default
 summary: Learn the basics of survival, starting gear, looting, base building, and early progression.
 ---
 
-# Getting Started
-
 ## Your starting gear
 Every player starts with:
 - **Bat**

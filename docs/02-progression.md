@@ -4,8 +4,6 @@ layout: default
 summary: How waves scale in difficulty, how to repair powerplants, and how to successfully extract from the city.
 ---
 
-# Progression & Extraction
-
 ## Waves get harder
 Each wave/day increases difficulty. Expect:
 - more enemies

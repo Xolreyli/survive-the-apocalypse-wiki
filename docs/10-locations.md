@@ -4,10 +4,6 @@ layout: default
 summary: Important locations including the Hospital, Bandit Outpost, Nuclear Reactor, Powerplants, and more.
 ---
 
-# Locations
-
-The map is a zombie-infested city with several notable areas.
-
 ## Hospital
 - Marked with a **Red H**
 - Better loot inside

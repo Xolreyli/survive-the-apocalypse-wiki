@@ -4,10 +4,6 @@ layout: default
 summary: Learn about all zombie types, their abilities, and how to survive increasingly dangerous hordes.
 ---
 
-# Zombies
-
-Zombies are the primary enemy, with several special types.
-
 ## Types
 
 - **Muscle:** Orange and massive. High damage. Lunges and throws rocks.

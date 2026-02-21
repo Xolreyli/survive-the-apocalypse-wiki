@@ -4,10 +4,6 @@ layout: default
 summary: Backpacks increase inventory capacity and can be found throughout the map or in supply drops.
 ---
 
-# Backpacks
-
-Backpacks increase how many items you can carry.
-
 All players start with a backpack that holds **10 items**.
 
 Other backpacks can be found:
