@@ -1,0 +1,28 @@
+title: Survive the Apocalypse Wiki
+description: Official wiki for Survive the Apocalypse
+theme: just-the-docs
+
+# If you host at https://USERNAME.github.io/REPO
+# set baseurl to "/REPO"
+baseurl: "/survive-the-apocalypse-wiki"
+url: "https://USERNAME.github.io"
+
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  "GitHub Repo":
+    - "https://github.com/USERNAME/survive-the-apocalypse-wiki"
+
+# (Optional) show last edit time if you want later
+# last_edit_timestamp: true
+# last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+# Keep URLs nice
+permalink: pretty
+
+# Add a tiny custom css file
+just_the_docs:
+  custom_css:
+    - "assets/css/custom.css"
