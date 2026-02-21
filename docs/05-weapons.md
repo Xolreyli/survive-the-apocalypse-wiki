@@ -7,8 +7,9 @@ summary: Weapons include melee tools and firearms used to defend against zombies
 Weapons are split into **Melee** and **Guns**.
 
 ## Melee weapons
+
 | Name |
-|---|
+|:-----|
 | Bat |
 | Spiked Bat |
 | Knife |
@@ -23,7 +24,7 @@ Weapons are split into **Melee** and **Guns**.
 > `*` means the weapon is obtained specifically from the **Nuclear Reactor**.
 
 | Gun | Ammo Type | Notes |
-|---|---|---|
+|:---|:---------|:------|
 | Pistol | Pistol | — |
 | Revolver | Pistol | — |
 | Uzi | Pistol | — |
