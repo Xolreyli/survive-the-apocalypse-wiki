@@ -150,6 +150,38 @@ body{
   background-color:#171a21;
 }
 
+.infobox{
+  float:right;
+  width:280px;
+  margin:0 0 14px 14px;
+  background:#171a21;
+  border:1px solid #2a2f3a;
+  border-radius:10px;
+  overflow:hidden;
+}
+
+.infobox-title{
+  padding:10px 12px;
+  font-weight:700;
+  background:#232838;
+  border-bottom:1px solid #2a2f3a;
+}
+
+.infobox img{
+  width:100%;
+  display:block;
+}
+
+.infobox-row{
+  padding:8px 12px;
+  border-top:1px solid #2a2f3a;
+  font-size:14px;
+}
+
+.clear{
+  clear:both;
+}
+
 /* Footer */
 .footer{padding:18px 16px;color:var(--muted)}
 .footer-inner{
