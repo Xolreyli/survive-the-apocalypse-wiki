@@ -18,6 +18,7 @@ You can attempt **Extraction on Day 100** (if you meet the requirements).
 ## Main sections
 
 <div class="main-sections-grid">
+
   <a class="main-sections-btn" href="{{ '/docs/01-getting-started/' | relative_url }}">Getting Started</a>
   <a class="main-sections-btn" href="{{ '/docs/02-progression/' | relative_url }}">Progression & Extraction</a>
   <a class="main-sections-btn" href="{{ '/docs/03-classes/' | relative_url }}">Classes</a>
@@ -29,4 +30,5 @@ You can attempt **Extraction on Day 100** (if you meet the requirements).
   <a class="main-sections-btn" href="{{ '/docs/09-events/' | relative_url }}">Events</a>
   <a class="main-sections-btn" href="{{ '/docs/10-zombies/' | relative_url }}">Zombies</a>
   <a class="main-sections-btn" href="{{ '/docs/11-locations/' | relative_url }}">Locations</a>
+
 </div>
