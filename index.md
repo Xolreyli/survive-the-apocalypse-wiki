@@ -16,14 +16,17 @@ You can attempt **Extraction on Day 100** (if you meet the requirements).
 - Key systems: **Classes, Badges, Crafting Table (4 levels), Hunger, Blood Moons, Supply Crates, Powerplants, Nuclear Reactor dungeon**
 
 ## Main sections
-- [Getting Started](docs/01-getting-started/)
-- [Progression & Extraction](docs/02-progression/)
-- [Classes](docs/03-classes/)
-- [Badges](docs/04-badges/)
-- [Weapons](docs/05-weapons/)
-- [Crafting](docs/06-crafting/)
-- [Items](docs/07-items/)
-- [Backpacks](docs/08-backpacks/)
-- [Events](docs/09-events/)
-- [Zombies](docs/10-zombies/)
-- [Locations](docs/11-locations/)
+
+<div class="main-sections-grid">
+  <a class="main-sections-btn" href="{{ '/docs/01-getting-started/' | relative_url }}">Getting Started</a>
+  <a class="main-sections-btn" href="{{ '/docs/02-progression/' | relative_url }}">Progression & Extraction</a>
+  <a class="main-sections-btn" href="{{ '/docs/03-classes/' | relative_url }}">Classes</a>
+  <a class="main-sections-btn" href="{{ '/docs/04-badges/' | relative_url }}">Badges</a>
+  <a class="main-sections-btn" href="{{ '/docs/05-weapons/' | relative_url }}">Weapons</a>
+  <a class="main-sections-btn" href="{{ '/docs/06-crafting/' | relative_url }}">Crafting</a>
+  <a class="main-sections-btn" href="{{ '/docs/07-items/' | relative_url }}">Items</a>
+  <a class="main-sections-btn" href="{{ '/docs/08-backpacks/' | relative_url }}">Backpacks</a>
+  <a class="main-sections-btn" href="{{ '/docs/09-events/' | relative_url }}">Events</a>
+  <a class="main-sections-btn" href="{{ '/docs/10-zombies/' | relative_url }}">Zombies</a>
+  <a class="main-sections-btn" href="{{ '/docs/11-locations/' | relative_url }}">Locations</a>
+</div>
