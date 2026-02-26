@@ -23,5 +23,4 @@ summary: Classes are gem-purchased perks that provide abilities, starter weapons
 | Necromancer | ★★★★★ | 500 | — | +10% chance to convert slain non-boss zombies into allies for 60s | Summoned zombies gain +50% health and damage *(600 Gems)* | Summon Zombies: Summon 5 zombies to assist you (2m cooldown) *(750 Gems)* |
 
 > Notes:
-> - Some level columns are unknown in the source; the wiki leaves them blank until you define them.
-> - If you later add Level 2/3 unlocks, we can expand this page cleanly.
+> - Some level columns are unknown in the source; the wiki leaves them blank until defined.

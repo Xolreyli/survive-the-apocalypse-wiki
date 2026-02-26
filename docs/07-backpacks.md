@@ -16,6 +16,4 @@ Other backpacks can be found:
 |---|---:|
 | Default | 10 |
 | Good | 20 |
-| Better | 30 |
-
-> “Great” was mentioned but not defined in the source — add it here if you decide its slot count.
+| Great | 30 |

@@ -43,5 +43,6 @@ Weapons are split into **Melee** and **Guns**.
 
 Suppressors can’t be used on:
 - Ray Gun
+- Flamethrower
 - Double Barrel
 - LMG

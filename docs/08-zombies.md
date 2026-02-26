@@ -60,7 +60,7 @@ Riot police type of zombie. Has a riot shield and baton. Does a decent amount of
   <div class="infobox-title">Muscle</div>
   <img src="{{ '/assets/img/zombies/muscle.png' | relative_url }}" alt="Muscle Zombie">
   <div class="infobox-row"><b>Threat:</b> High</div>
-  <div class="infobox-row"><b>Color:</b> Orange</div>
+  <div class="infobox-row"><b>Colour:</b> Orange</div>
   <div class="infobox-row"><b>Ability:</b> Lunges + throws rocks</div>
 </div>
 
@@ -93,7 +93,7 @@ White with long claws. Extremely fast. Screams (red aura) then charges at you an
   <img src="{{ '/assets/img/zombies/brute.png' | relative_url }}" alt="Brute">
   <div class="infobox-row"><b>Threat:</b> Boss</div>
   <div class="infobox-row"><b>Health:</b> Very high</div>
-  <div class="infobox-row"><b>Appears in:</b> Blood Moon</div>
+  <div class="infobox-row"><b>Appears in:</b> Blood Moon (can also be found around the map but its a small chance)</div>
 </div>
 
 Massive, high damage, very high health. Also appears as a **Blood Moon boss**.
@@ -108,7 +108,7 @@ Massive, high damage, very high health. Also appears as a **Blood Moon boss**.
   <div class="infobox-title">Spitter</div>
   <img src="{{ '/assets/img/zombies/spitter.png' | relative_url }}" alt="Spitter Zombie">
   <div class="infobox-row"><b>Threat:</b> High</div>
-  <div class="infobox-row"><b>Color:</b> Neon green</div>
+  <div class="infobox-row"><b>Colour:</b> Neon green</div>
   <div class="infobox-row"><b>Ability:</b> Acid spit</div>
 </div>
 
@@ -140,7 +140,7 @@ Ghost zombie that can phase through defenses like gates, barbed wire, fences, et
   <div class="infobox-title">Bio-Hazard Zombie</div>
   <img src="{{ '/assets/img/zombies/biohazard.png' | relative_url }}" alt="Bio-Hazard Zombie">
   <div class="infobox-row"><b>Threat:</b> Medium</div>
-  <div class="infobox-row"><b>Gear:</b> Hazmat suit</div>
+  <div class="infobox-row"><b>Clothes:</b> Hazmat suit</div>
   <div class="infobox-row"><b>Drops:</b> Gas Mask</div>
 </div>
 
@@ -171,11 +171,14 @@ Dark green zombie that moves slow but deals high damage and explodes once its he
 <div class="infobox">
   <div class="infobox-title">Crate</div>
   <img src="{{ '/assets/img/zombies/crate.png' | relative_url }}" alt="Loot crate">
-  <div class="infobox-row"><b>Rarity:</b> Glow color</div>
-  <div class="infobox-row"><b>Common:</b> Green glow</div>
+  <div class="infobox-row"><b>Rarity:</b> Glow colour</div>
+  <div class="infobox-row"><b>Common:</b> Grey glow</div>
+  <div class="infobox-row"><b>Uncommon:</b> Green glow</div>
+  <div class="infobox-row"><b>Rare:</b> Blue glow</div>
+  <div class="infobox-row"><b>Epic:</b> Purple glow</div>
 </div>
 
-Light brown boxes that spawn around the map and provide loot. The slight glow around the crate determines loot rarity (**green is most common**).
+Beige coloured boxes that spawn around the map and provide loot. The slight glow around the crate determines loot rarity (**grey is most common**).
 
 Possible loot:
 - weapons

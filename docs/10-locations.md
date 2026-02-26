@@ -79,6 +79,6 @@ Marked on the map as a **purple** icon.
 <img class="loc-img" src="{{ '/assets/img/locations/irradiated-zone.png' | relative_url }}" alt="Irradiated Zone">
 
 Green highlighted map area.
-- Requires **Gas Mask** (dropped by Bio-Hazard zombies) to access safely (as implied by the source)
+- Requires **Gas Mask** (dropped by Bio-Hazard zombies) to access safely
 
 <div class="clear"></div>
