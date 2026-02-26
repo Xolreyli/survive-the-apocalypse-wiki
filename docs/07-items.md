@@ -5,10 +5,10 @@ summary: The items that spawn around the map
 ---
 
 ## foods
-- bloxy cola - 1
-- bloxiade - 2
-- beans - 2
-- MREs - 3
+- bloxy cola
+- bloxiade
+- beans
+- MREs
 
 ## gives health
 - medkits
