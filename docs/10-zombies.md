@@ -192,6 +192,7 @@ Dark green zombie that moves slow but deals high damage and explodes once its he
   <div class="infobox-row"><b>Uncommon:</b> Green glow</div>
   <div class="infobox-row"><b>Rare:</b> Blue glow</div>
   <div class="infobox-row"><b>Epic:</b> Purple glow</div>
+  <div class="infobox-row"><b>Legendary:</b> Yellow/Gold glow</div>
 </div>
 
 Beige coloured boxes that spawn around the map and provide loot. The slight glow around the crate determines loot rarity (**grey is most common**).

@@ -24,6 +24,7 @@ summary: The items that spawn around the map (includes items that don't naturall
 - Tray
 - Metal
 - Nails
+- Bucket
 - Dumbell
 - Spatula
 - Refined Metal
@@ -31,21 +32,3 @@ summary: The items that spawn around the map (includes items that don't naturall
 - Bandages
 - Medkits
 - (more to be added)
-
-| Item | Category/What it does |
-|---|---:|
-| Carrots | Food |
-| Bloxy Cola | Food |
-| Bloxiade | Food |
-| Beans | Food |
-| MREs | Food |
-| Medkits | Health |
-| Bandages | Health |
-| Battery | Batteries |
-| Battery pack | Batteries |
-| Tray | Scrap |
-| Scrap metal | Scrap |
-| Nails | Scrap |
-| Spatula | Scrap |
-| Dumbell | Scrap |
-| Weapons | Scrap. All of them can be scrapped (both melee and guns) |

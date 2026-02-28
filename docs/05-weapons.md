@@ -36,6 +36,7 @@ Weapons are split into **Melee** and **Guns**.
 | Double Barrel | Shells | — |
 | AA-12 | Shells | — |
 | Sniper | Long | — |
+| SVD | Long | — |
 | LMG | Medium | — |
 | Ray Gun* | Long | Reactor-only drop |
 | Flamethrower* | Fuel | Refined fuel refills 40%; regular fuel refills 10% |
