@@ -1,3 +1,9 @@
+---
+title: Locations
+layout: default
+summary: Locations in the game. Most are marked on the map while others aren't.
+---
+
 ## Hospital
 
 <img class="loc-img" src="{{ '/assets/img/locations/hospital.png' | relative_url }}" alt="Hospital">
