@@ -42,8 +42,7 @@ Located in the **Irradiated Zone** (green highlighted area on map).
 - Map icon is **purple** once discovered
 - Dungeon-style, timed mission
 - Waves of zombies + final boss
-- Basement opens on completion with loot chests
-  - Chest glow indicates rarity (**green common → yellow rare**)
+- Basement opens on completion with loot chests (chest glow indicates rarity (**grey is common → yellow/gold is legendary**))
 - Contains battery packs, ammo boxes, and reactor parts (worth lots of scrap)
 - One special crate at the bottom:
   - only **one person** can open it
