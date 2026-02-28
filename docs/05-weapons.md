@@ -18,6 +18,7 @@ Weapons are split into **Melee** and **Guns**.
 | Katana |
 | Fire Axe |
 | Sledge Hammer |
+| Chainsaw* |
 
 ## Guns
 

@@ -22,6 +22,22 @@ Slow and the least amount of health.
 
 ---
 
+### Crawler
+
+<div class="infobox">
+  <div class="infobox-title">Crawler</div>
+  <img src="{{ '/assets/img/zombies/crawler.png' | relative_url }}" alt="Crawler">
+  <div class="infobox-row"><b>Threat:</b> Low</div>
+  <div class="infobox-row"><b>Speed:</b> Slow</div>
+  <div class="infobox-row"><b>Health:</b> Low</div>
+</div>
+
+Same as the starter zombie but crawls instead of walks.
+
+<div class="clear"></div>
+
+---
+
 ### Runner
 
 <div class="infobox">

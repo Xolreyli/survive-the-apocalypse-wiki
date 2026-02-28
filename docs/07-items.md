@@ -1,43 +1,51 @@
 ---
 title: Items
 layout: default
-summary: The items that spawn around the map
+summary: The items that spawn around the map (includes items that don't naturally spawn on the map on its own)
 ---
 
-## foods
-- bloxy cola
-- bloxiade
-- beans
+## Foods
+- Carrots (can only be grown via the farm plots in crafting)
+- Bloxy Cola
+- Bloxiade
+- Beans
 - MREs
 
-## gives health
-- medkits
-- bandages
-- medic's mediGun (this can only be used if you have a medic class on your team)
+## Misc items
+- Compound I - heals passively
+- Compound R - gives health upon getting kills
+- Compound S - gives a speed boost
 
-## gives scraps
-- tray
-- metal
-- nails
-- spatula
-- refined metal
-- weapons (both guns and melee)
+## Gives health
+- Medkits
+- Bandages
+
+## Gives scraps
+- Tray
+- Metal
+- Nails
+- Dumbell
+- Spatula
+- Refined Metal
+- Weapons (both guns and melee)
+- Bandages
+- Medkits
 - (more to be added)
 
 | Item | Category/What it does |
 |---|---:|
-| bloxy cola | Food |
-| bloxiade | Food |
-| beans | Food |
+| Carrots | Food |
+| Bloxy Cola | Food |
+| Bloxiade | Food |
+| Beans | Food |
 | MREs | Food |
-| medkits | Health |
-| bandages | Health |
-| medic's mediGun | Health |
-| battery | Batteries |
-| battery pack | Batteries |
-| tray | Scrap |
-| scrap metal | Scrap |
-| nails | Scrap |
-| spatula | Scrap |
-| dumbell | Scrap |
+| Medkits | Health |
+| Bandages | Health |
+| Battery | Batteries |
+| Battery pack | Batteries |
+| Tray | Scrap |
+| Scrap metal | Scrap |
+| Nails | Scrap |
+| Spatula | Scrap |
+| Dumbell | Scrap |
 | Weapons | Scrap. All of them can be scrapped (both melee and guns) |
