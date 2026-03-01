@@ -61,7 +61,7 @@ A little quicker than the starter zombie and low health.
   <img src="{{ '/assets/img/zombies/shield.png' | relative_url }}" alt="Shield Zombie">
   <div class="infobox-row"><b>Threat:</b> Medium</div>
   <div class="infobox-row"><b>Gear:</b> Riot shield + baton</div>
-  <div class="infobox-row"><b>Damage:</b> Decent</div>
+  <div class="infobox-row"><b>Damage:</b> Medium</div>
 </div>
 
 Riot police type of zombie. Has a riot shield and baton. Does a decent amount of damage.

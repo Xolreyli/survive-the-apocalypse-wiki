@@ -12,7 +12,7 @@ The **Crafting Table** has **4 levels**.
 - **Level 1 requires:** Scrap, Batteries  
 - **Level 2 requires:** Scrap, Batteries  
 - **Level 3 requires:** Scrap, Batteries, **1 Zombie Heart**  
-- **Level 4 requires:** N/A *(Final level)*
+- **Level 4 requires:** Scrap, Batteries, **1 Zombie Heart**
 
 ## Items by crafting level
 
