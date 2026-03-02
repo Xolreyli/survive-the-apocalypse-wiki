@@ -39,7 +39,7 @@ Weapons are split into **Melee** and **Guns**.
 | SVD | Long | — |
 | LMG | Medium | — |
 | Ray Gun* | Long | Reactor-only drop |
-| Flamethrower* | Fuel | Refined fuel refills 40%; regular fuel refills 10% |
+| Flamethrower* | Fuel | Nuclear fuel refills 100%; Refined fuel refills 40%; regular fuel refills 10% |
 
 ### Suppressor compatibility
 

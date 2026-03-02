@@ -11,6 +11,11 @@ summary: The items that spawn around the map (includes items that don't naturall
 - Beans
 - MREs
 
+## Armour
+- Light Armour
+- Medium Armour
+- Heavy Armour
+
 ## Misc items
 - Compound I - heals passively
 - Compound R - gives health upon getting kills
@@ -21,6 +26,7 @@ summary: The items that spawn around the map (includes items that don't naturall
 - Bandages
 
 ## Gives scraps
+- AC
 - Tray
 - Metal
 - Nails
@@ -28,6 +34,7 @@ summary: The items that spawn around the map (includes items that don't naturall
 - Dumbell
 - Spatula
 - Refined Metal
+- Reactor Component
 - Weapons (both guns and melee)
 - Bandages
 - Medkits
